@@ -4,7 +4,7 @@
       "name": "Movies",
       "videos": [
         {
-          "title": "java part 1",
+          "title": "java game development part 1",
           "description": "",
           "sources": [
             "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/farewall%20just%20after%2023.mp4?alt=media&token=1645748e-34a9-4c08-b5de-911af78692ea"
@@ -13,7 +13,7 @@
           "thumb": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/Screenshot%20(17).png?alt=media&token=0b0588eb-4929-45b5-b364-c2f52718bf87"
         },
         {
-          "title": "java part 2",
+          "title": "java game development part 2",
           "description": "",
           "sources": [
             "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/Custom%20Font%20-%20How%20to%20Make%20a%202D%20Game%20in%20Java%20%2316.mp4?alt=media&token=32b37483-f005-4306-9578-1261a1835ce6"
@@ -22,7 +22,7 @@
           "thumb": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/Screenshot%20(17).png?alt=media&token=0b0588eb-4929-45b5-b364-c2f52718bf87"
         },
         {
-          "title": "java part 3",
+          "title": "java game development part 3",
           "description": "",
           "sources": [
             "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/Entity%20ArayList%20(Render%20Order%20Revised)%20-%20How%20to%20Make%20a%202D%20Game%20in%20Java%20%2321.mp4?alt=media&token=4a26daa4-c977-4def-b83a-4305688ddc02"
@@ -31,7 +31,7 @@
           "thumb": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/Screenshot%20(17).png?alt=media&token=0b0588eb-4929-45b5-b364-c2f52718bf87"
         },
         {
-          "title": "java part 4",
+          "title": "java game development part 4",
           "description": "",
           "sources": [
             "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/Collision%20Detection%20-%20How%20to%20Make%20a%202D%20Game%20in%20Java%20%236.mp4?alt=media&token=156b7d28-bb21-4db7-8e03-e2a2aba7ea3d"
