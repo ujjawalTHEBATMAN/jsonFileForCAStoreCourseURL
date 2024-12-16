@@ -13,8 +13,8 @@
         {
             "id": "2",
             "title": "Advanced Programming Concepts",
-            "videoUrl": "https://example.com/video-sem2.mp4",
-            "thumbnailUrl": "https://example.com/thumbnail-sem2.jpg",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
             "duration": "12:15",
             "watchCount": 800
         }
@@ -23,8 +23,8 @@
         {
             "id": "3",
             "title": "Data Structures and Algorithms",
-            "videoUrl": "https://example.com/video-sem3.mp4",
-            "thumbnailUrl": "https://example.com/thumbnail-sem3.jpg",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
             "duration": "14:20",
             "watchCount": 1500
         }
@@ -33,8 +33,8 @@
         {
             "id": "4",
             "title": "Database Management Systems",
-            "videoUrl": "https://example.com/video-sem4.mp4",
-            "thumbnailUrl": "https://example.com/thumbnail-sem4.jpg",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
             "duration": "16:45",
             "watchCount": 1100
         }
@@ -43,8 +43,8 @@
         {
             "id": "5",
             "title": "Operating Systems",
-            "videoUrl": "https://example.com/video-sem5.mp4",
-            "thumbnailUrl": "https://example.com/thumbnail-sem5.jpg",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
             "duration": "18:00",
             "watchCount": 1400
         }
@@ -53,8 +53,8 @@
         {
             "id": "6",
             "title": "Project Work and Seminar",
-            "videoUrl": "https://example.com/video-sem6.mp4",
-            "thumbnailUrl": "https://example.com/thumbnail-sem6.jpg",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
             "duration": "20:30",
             "watchCount": 1800
         }
