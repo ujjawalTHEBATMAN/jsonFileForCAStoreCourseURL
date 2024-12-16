@@ -8,5 +8,55 @@
             "duration": "10:30",
             "watchCount": 1200
         }
+    ],
+    "sem2": [
+        {
+            "id": "2",
+            "title": "Advanced Programming Concepts",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
+            "duration": "12:15",
+            "watchCount": 800
+        }
+    ],
+    "sem3": [
+        {
+            "id": "3",
+            "title": "Data Structures and Algorithms",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
+            "duration": "14:20",
+            "watchCount": 1500
+        }
+    ],
+    "sem4": [
+        {
+            "id": "4",
+            "title": "Database Management Systems",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
+            "duration": "16:45",
+            "watchCount": 1100
+        }
+    ],
+    "sem5": [
+        {
+            "id": "5",
+            "title": "Operating Systems",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
+            "duration": "18:00",
+            "watchCount": 1400
+        }
+    ],
+    "sem6": [
+        {
+            "id": "6",
+            "title": "Project Work and Seminar",
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/002%20What%20is%20HTML.mp4?alt=media&token=9d4f9484-e432-48ba-9482-6ad3a6c758cb",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/privatevs16656.appspot.com/o/htmlimage.jpg?alt=media&token=e80763f0-c03f-420f-ae71-59d130bbf9ad",
+            "duration": "20:30",
+            "watchCount": 1800
+        }
     ]
 }
