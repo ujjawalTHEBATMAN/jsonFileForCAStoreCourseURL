@@ -1,0 +1,136 @@
+{
+  "bca": {
+    "sem1": [
+      {
+        "question": "What is the primary function of an operating system?",
+        "options": [
+          "To provide a user interface",
+          "To manage hardware resources",
+          "To run applications",
+          "All of the above"
+        ],
+        "correct": "All of the above"
+      },
+      {
+        "question": "Which of the following is not a type of computer memory?",
+        "options": [
+          "RAM",
+          "ROM",
+          "CPU",
+          "Cache"
+        ],
+        "correct": "CPU"
+      }
+    ],
+    "sem2": [
+      {
+        "question": "Which data structure uses FIFO (First In, First Out)?",
+        "options": [
+          "Stack",
+          "Queue",
+          "Heap",
+          "Binary Tree"
+        ],
+        "correct": "Queue"
+      },
+      {
+        "question": "What is the time complexity of binary search?",
+        "options": [
+          "O(n)",
+          "O(log n)",
+          "O(n log n)",
+          "O(1)"
+        ],
+        "correct": "O(log n)"
+      }
+    ],
+    "sem3": [
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "Hyper Text Markup Language",
+          "Home Tool Markup Language",
+          "Hyperlinks and Text Markup Language",
+          "High-Level Text Markup Language"
+        ],
+        "correct": "Hyper Text Markup Language"
+      },
+      {
+        "question": "Which property is used to change the background color in CSS?",
+        "options": [
+          "color",
+          "background-color",
+          "bgcolor",
+          "background"
+        ],
+        "correct": "background-color"
+      }
+    ],
+    "sem4": [
+      {
+        "question": "What is a primary key in a database?",
+        "options": [
+          "A unique identifier for each record",
+          "A duplicate record in a table",
+          "A field that links two tables",
+          "A table without null values"
+        ],
+        "correct": "A unique identifier for each record"
+      },
+      {
+        "question": "Which SQL command is used to retrieve data?",
+        "options": [
+          "UPDATE",
+          "SELECT",
+          "INSERT",
+          "DELETE"
+        ],
+        "correct": "SELECT"
+      }
+    ],
+    "sem5": [
+      {
+        "question": "What is polymorphism in object-oriented programming?",
+        "options": [
+          "Encapsulation of data",
+          "Ability to take multiple forms",
+          "Inheritance from a parent class",
+          "Defining methods without implementation"
+        ],
+        "correct": "Ability to take multiple forms"
+      },
+      {
+        "question": "Which keyword is used to inherit a class in Java?",
+        "options": [
+          "extends",
+          "implements",
+          "inherits",
+          "super"
+        ],
+        "correct": "extends"
+      }
+    ],
+    "sem6": [
+      {
+        "question": "What is the purpose of version control systems like Git?",
+        "options": [
+          "To manage project dependencies",
+          "To track changes in source code",
+          "To compile code into executables",
+          "To run unit tests on code"
+        ],
+        "correct": "To track changes in source code"
+      },
+      {
+        "question": "Which of the following is a popular CI/CD tool?",
+        "options": [
+          "Jenkins",
+          "React",
+          "Node.js",
+          "Docker"
+        ],
+        "correct": "Jenkins"
+      }
+    ]
+  }
+}
